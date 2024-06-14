@@ -1,2 +1,4 @@
 # Header
-Hello world:  $a_i = x_iw + b$
+Hello world:  $z_i = x_iw + b$
+# Sub header
+Hi world: $a_i = \sigma(x_iw + b)$
